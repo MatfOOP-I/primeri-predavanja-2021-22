@@ -1,7 +1,7 @@
 package rs.math.oop1.z080401.definicjeMetoda.z02.geometrija;
 
 class Tacka {
-   double x;
+   double x = 45;
    double y;
    String oznaka;
 
